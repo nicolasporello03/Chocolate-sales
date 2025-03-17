@@ -11,11 +11,12 @@
 📌 Ideal for data analysts, business intelligence professionals, and machine learning projects looking to explore retail sales insights in the chocolate industry! 🍫
 
 
-Column	|Description
-Date	|The transaction date of the chocolate sale.
-Product Name	|Name of the chocolate product sold.
-Category	|Type of chocolate (Dark, Milk, White).
-Quantity Sold	|Number of chocolate units sold in the transaction.
-Revenue	Total |revenue generated from the sale.
-Customer Segment	|Type of customer (Retail, Wholesale).
-Location	|Sales region or store location where the transaction took place.
+| Column          | Description                                                       |
+|-----------------|-------------------------------------------------------------------|
+| **Date**        | The transaction date of the chocolate sale.                       |
+| **Product Name**| Name of the chocolate product sold.                              |
+| **Category**    | Type of chocolate (Dark, Milk, White).                           |
+| **Quantity Sold**| Number of chocolate units sold in the transaction.               |
+| **Revenue Total**| Revenue generated from the sale.                                 |
+| **Customer Segment**| Type of customer (Retail, Wholesale).                        |
+| **Location**    | Sales region or store location where the transaction took place. |
