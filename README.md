@@ -1,5 +1,6 @@
 # Chocolate-sales
 🚀 Potential Use Cases
+
 ✔ Sales Forecasting 📈 – Predict future sales trends based on historical data.
 
 ✔ Customer Behavior Analysis 👥 – Identify purchasing patterns across different customer segments.
